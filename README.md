@@ -1,5 +1,4 @@
 # BMI-Checker
-# CS50_Final Project
 #### Video Demo:  <https://www.youtube.com/watch?v=01_OTvoC-Ns>
 #### Description:
 # Programming language: Swift
