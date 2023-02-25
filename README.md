@@ -1,8 +1,8 @@
 # BMI-Checker
 #### Video Demo:  <https://www.youtube.com/watch?v=01_OTvoC-Ns>
 #### Description:
-# Programming language: Swift
-# Building environment: Xcode
+### Programming language: Swift
+### Building environment: Xcode
 
 Hi, I'm AA078-Tatsuya.
 I have created an iPhone application called "BMI Checker," a health measurement application, under the Xcode environment as a deliverable of the Final Project.
